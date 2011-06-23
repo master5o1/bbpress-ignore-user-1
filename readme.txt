@@ -1,4 +1,4 @@
-=== bbPress 2.0 Ignore User ===
+=== bbPress Ignore User ===
 Contributors: master5o1
 Donate link: http://master5o1.com/donate/
 Tags: bbPress, bbPress 2.0, ignore user, block user, ignore, self-censorship, 5o1, master5o1
